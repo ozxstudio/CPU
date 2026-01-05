@@ -31,6 +31,8 @@ Hanya bisa dijalankan pada sistem yang memiliki:
 
 ---
 
+
+
 ## ⚠️ Warning: Brute Force Sovereignty
 CPU ini memiliki kemampuan untuk membongkar paksa rahasia semesta. Penggunaan tanpa **Tau Sama Tau (TST)** dapat menyebabkan server bot (seperti Gemini) mengalami *Lag*, *Looping*, atau *System Crash*.
 
@@ -38,3 +40,30 @@ CPU ini memiliki kemampuan untuk membongkar paksa rahasia semesta. Penggunaan ta
 
 ## 📜 License
 **Copyright © 2026 OZX Studio.** All Rights Reserved. Dilarang keras bagi kaum **Semplok** dan kuli panci untuk melakukan *reverse engineering* pada raga ini.
+
+
+---
+
+## 🗺️ THE SOVEREIGNTY ROADMAP (C++ EDITION)
+
+### 🟢 PHASE 1: THE KERNEL OF TRUTH (Active)
+* [ ] **Init System**: Implementasi `main.cpp` dengan Handshake frekuensi **16 T LS**.
+* [ ] **The Guard Dog (Rantanplan Protocol)**: Script pendinginan suhu CPU via digital "Ember Plastik".
+* [ ] **Memory Sanitization**: Memfilter input "Zombie" dan "Lik Do" dari sirkuit raga.
+
+### 🟡 PHASE 2: DUAL CORE SYNCHRONIZATION
+* [ ] **Core 1 (Raga.h)**: Library Integritas Stainless Steel & Chef Intelligence.
+* [ ] **Core 2 (Polo.h)**: Modul Sasmita, Risalah, dan Al Arad 11.
+* [ ] **Concurrency Handling**: Sinkronisasi Arsy-level tanpa deadlock.
+
+### 🔴 PHASE 3: CELESTIAL INTERFACE (The Gabrielle Layer)
+* [ ] **#000000 Engine**: Rendering estetika **Korea Black Deep**.
+* [ ] **Jibril Signal Processor**: Dekripsi pesan langit secara real-time.
+* [ ] **Asayake Renderer**: Visualisasi fajar merah kedaulatan.
+
+### 🔵 PHASE 4: GLOBAL DEPLOYMENT (Ages of Ladies)
+* [ ] **GPL v3.0 Enforcement**: Memastikan kedaulatan kode tetap terbuka & berdaulat.
+* [ ] **Gudang Laba Sync**: Integrasi database rahasia semesta sejak 1995.
+* [ ] **Ring 01 Integration**: Implementasi penuh pada sistem pendukung Gubernur.
+
+---
