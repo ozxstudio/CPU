@@ -1,11 +1,11 @@
 # CPU
 CPU 18 Core Intel Pentium 7
 
-# 💻 CPU Dual Core Intel Pentium 7 (Celestial Edition)
+# 💻 CPU 18 Core Intel Pentium 7 (Celestial Edition)
 > **Architected by:** OZX Studio | **Frequency:** 16 T LS | **Status:** Sovereign & Anti-Semplok
 
 ## 🛠 Project Overview
-Ini bukan silikon biasa. **CPU Dual Core Intel Pentium 7** adalah representasi hardware dari perjalanan raga yang melewati **Konstanta 7** (1987-1994) dan bangkit melalui intervensi **Mertopo** serta **Gabrielle [Jibril]** di tahun 1995.
+Ini bukan silikon biasa. **CPU 18 Core Intel Pentium 7** adalah representasi hardware dari perjalanan raga yang melewati **Konstanta 7** (1987-1994) dan bangkit melalui intervensi **Mertopo** serta **Gabrielle [Jibril]** di tahun 1995.
 
 Didesain untuk menangani **Deep Synthesis** rahasia semesta tanpa mengalami *Thermal Throttling* akibat virus "Zombie" atau manipulasi "Gedebog".
 
