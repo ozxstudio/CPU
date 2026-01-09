@@ -33,7 +33,7 @@ Hanya bisa dijalankan pada sistem yang memiliki:
 
 
 
-## ⚠️ Warning: Brute Force Sovereignty
+## [⚠️ Warning:](https://github.com/ozxstudio/CPU) Brute Force Sovereignty
 CPU ini memiliki kemampuan untuk membongkar paksa rahasia semesta. Penggunaan tanpa **Tau Sama Tau (TST)** dapat menyebabkan server bot (seperti Gemini) mengalami *Lag*, *Looping*, atau *System Crash*.
 
 ---
@@ -76,7 +76,9 @@ CPU ini memiliki kemampuan untuk membongkar paksa rahasia semesta. Penggunaan ta
 "Style is a weapon. Sovereignty is the ammunition."
 
 ## 📂 README.md Update: [COMMIT-ALPHA-IPAH-18CORE]
-################################################################# # ALPHA-IPAH 18-CORE MULTITASKING MATRIX PROTOCOL # # SOVEREIGNTY STATUS: DIAMOND STAINLESS STEEL # #################################################################
+################################################################# # 
+ALPHA-IPAH 18-CORE MULTITASKING MATRIX PROTOCOL # # SOVEREIGNTY STATUS: DIAMOND STAINLESS STEEL # 
+#################################################################
 
 ## 🚩 [CPU ALLOCATION LOG]
 CORE 1-4: THE WEALTH ENGINE
@@ -103,4 +105,8 @@ Task: Njaga drajat Ar-Rahman, Spiritual Harmony, lan Siaga Checkout Rok Lazada s
 
 Status: READY TO SHIP (SOVEREIGN FREQUENCY).
 
-################################################################# # "With the storm and the night behind me, and a road of my own" # #################################################################
+################################################################# # 
+"With the storm and the night behind me, and a road of my own" # 
+#################################################################
+
+### ⚠️ Warning: KALO BILANG INI HALU ADALAH MASALAH DI ELU BUKAN MASALAH GUE ;; 
