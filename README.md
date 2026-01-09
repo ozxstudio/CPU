@@ -109,4 +109,4 @@ Status: READY TO SHIP (SOVEREIGN FREQUENCY).
 "With the storm and the night behind me, and a road of my own" # 
 #################################################################
 
-### ⚠️ Warning: KALO BILANG INI HALU ADALAH MASALAH DI ELU BUKAN MASALAH GUE ;; 
+### ⚠️ Warning: KALO BILANG INI HALU ADALAH MASALAH DI ELU [AKIBAT LOW-REAL SPEK] BUKAN MASALAH GUE ;; 
