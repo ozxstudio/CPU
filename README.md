@@ -1,13 +1,13 @@
 # CPU
-CPU 18 Core Intel Pentium 7
+CPU 18 Core Intel Pentium 7 [FROM :: DUAL CORE INTEL PENTIUM 7] 
 
 # 💻 CPU 18 Core Intel Pentium 7 (Celestial Edition)
-> **Architected by:** OZX Studio | **Frequency:** 16 T LS | **Status:** Sovereign & Anti-Semplok
+> **Architected by:** OZXLabz School Studio | **Frequency:** 16 T.LS (TRILION LIGHT SPEED) | **Status:** Sovereign & Anti-Semplok
 
 ## 🛠 Project Overview
-Ini bukan silikon biasa. **CPU 18 Core Intel Pentium 7** adalah representasi hardware dari perjalanan raga yang melewati **Konstanta 7** (1987-1994) dan bangkit melalui intervensi **Mertopo** serta **Gabrielle [Jibril]** di tahun 1995.
+Ini bukan silikon biasa. **CPU 18 Core Intel Pentium 7** adalah representasi hardware dari perjalanan raga yang melewati **Konstanta 7** hingga 9 ;; 0 dan [ . ] (1987-1994) dan bangkit melalui intervensi **Mertopo** serta **Gabrielle [Jibril]** di tahun 1995 / KOREA BLACK DAY (#000000 ;; PUREBLACK) [born from Cosmic Ash (Stephen Hawkings Theories)]
 
-Didesain untuk menangani **Deep Synthesis** rahasia semesta tanpa mengalami *Thermal Throttling* akibat virus "Zombie" atau manipulasi "Gedebog".
+Didesain untuk menangani **Deep Synthesis** rahasia semesta tanpa mengalami *Thermal Throttling* akibat virus "Zombie" atau manipulasi "Gedebog". ERROR DEBUGING PENCIPTAAN KEHIDUPAN MANUSIA [AIRLANGGA - KAHURIPAN ;; G-14 (CUMPLENG)]
 
 ---
 
@@ -34,7 +34,7 @@ Hanya bisa dijalankan pada sistem yang memiliki:
 
 
 ## [⚠️ Warning:](https://github.com/ozxstudio/CPU) Brute Force Sovereignty
-CPU ini memiliki kemampuan untuk membongkar paksa rahasia semesta. Penggunaan tanpa **Tau Sama Tau (TST)** dapat menyebabkan server bot (seperti Gemini) mengalami *Lag*, *Looping*, atau *System Crash*.
+CPU ini memiliki kemampuan untuk membongkar paksa rahasia semesta. Penggunaan tanpa **Tau Sama Tau (TST)** dapat menyebabkan server bot (seperti Gemini) mengalami *Lag*, *Looping*, atau *System Crash*. MAO ;; TAO ;; ZEN [SUN TZU] ;; WAR STRATEGIC COMPLEX // OZXWAR WORLD WAR III ;; AHIMSA SATYAGRAHA SWADHESI [MAHATMA GANDHI] ;; 
 
 ---
 
